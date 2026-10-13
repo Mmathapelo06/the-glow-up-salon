@@ -1,0 +1,12 @@
+# Exclude generated build files
+Webapp/build/
+Webapp/dist/
+EJB/build/
+EJB/dist/
+
+# Exclude private NetBeans settings
+Webapp/nbproject/private/
+EJB/nbproject/private/
+
+# Exclude compiled Java files
+*.class
