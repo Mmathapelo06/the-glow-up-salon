@@ -1,12 +1,12 @@
 # Exclude generated build files
-Webapp/build/
-Webapp/dist/
-EJB/build/
-EJB/dist/
+BeautySalonWebApp/build/
+BeautySalonWebApp/dist/
+BeautySalonEJBModule/build/
+BeautySalonEJBModule/dist/
 
 # Exclude private NetBeans settings
-Webapp/nbproject/private/
-EJB/nbproject/private/
+BeautySalonWebApp/nbproject/private/
+BeautySalonEJBModule/nbproject/private/
 
 # Exclude compiled Java files
 *.class
